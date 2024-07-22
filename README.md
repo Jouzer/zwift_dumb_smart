@@ -27,4 +27,5 @@ Finished end product. Green signals Bluetooth status, yellow is lit when motor m
 
 </br>
 <img src="https://github.com/user-attachments/assets/7c4903e7-5234-4fd5-a5c5-0d4d7d925449" alt="Picture from the inside" width="200" />
+</br>
 Quite stuffed inside
