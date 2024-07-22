@@ -22,7 +22,8 @@ The project worked, and I rode half a winter using it, I recall occasional glitc
 
 Finished end product. Green signals Bluetooth status, yellow is lit when motor moves (or should be moving), red is lit when the motor has ran into a microswitch. Then there's manual switch if I wanted to ride without Zwift, also 2 potentiometers to adjust the scale (meaning the full range of the cable wire could mean anything from -10%..0% gradient to 5%..15% gradient. It's nice to feel a change on a downhill, something like -1%..7% was good
 
-![kuva](https://github.com/user-attachments/assets/269eadf8-c38b-419c-9e01-dda8177742b2) 
+<img src="https://github.com/user-attachments/assets/269eadf8-c38b-419c-9e01-dda8177742b2" alt="Finished build" width="200" />
 
-Quite stuffed inside
-![kuva](https://github.com/user-attachments/assets/7c4903e7-5234-4fd5-a5c5-0d4d7d925449) 
+</br>
+
+<img src="https://github.com/user-attachments/assets/7c4903e7-5234-4fd5-a5c5-0d4d7d925449" alt="Picture from the inside" width="200" />
