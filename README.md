@@ -15,7 +15,7 @@ The project worked, and I rode half a winter using it, I recall occasional glitc
 - Plastic housing with aluminium endplates, 30cm x 15cm x 10cm
 - 24V DC PSU
 - L298N motor driver board
-- Stepper motor from AliExpress https://a.aliexpress.com/_EjRUSAx
+- Stepper motor from AliExpress https://a.aliexpress.com/_EjRUSAx and mounting bracket from same seller
 - LOLIN32 Wifi / Bluetooth development board
 - 24VDC to 5VDC adapter for L298N
 - Then some microswitches, LEDs, resistors and potentiometers from my local electronics store
